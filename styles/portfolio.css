@@ -108,8 +108,9 @@ nav .menu a{
 #banner .banner-img img{
     max-width: 586px;
     vertical-align: middle;
-    width: 350px;
-    margin-left: 100px;
+    height: 586px;
+    width: auto;
+    
     
 
     
